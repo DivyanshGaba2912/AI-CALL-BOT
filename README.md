@@ -43,8 +43,8 @@ The assistant integrates speech recognition, text-to-speech, generative AI, and 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/dental-voice-assistant.git
-   cd dental-voice-assistant
+   https://github.com/DivyanshGaba2912/AI-CALL-BOT.git
+   cd AI-CALL-BOT
    ```
 
 2. Install dependencies:
@@ -87,7 +87,6 @@ The assistant will start listening for voice input and guide the user through av
 bot.py
 README.md
 LICENSE
-.gitignore
 ```
 
 ---
@@ -102,3 +101,4 @@ LICENSE
 ## License
 
 This project is licensed under the MIT License.
+
